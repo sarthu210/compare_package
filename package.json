@@ -1,0 +1,22 @@
+{
+  "name": "compare-two-strings",
+  "version": "1.0.0",
+  "description": "Checking two strings are same or not",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarthu210/compare_package.git"
+  },
+  "keywords": [
+    "compare-string"
+  ],
+  "author": "Sarthak Nande",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sarthu210/compare_package/issues"
+  },
+  "homepage": "https://github.com/sarthu210/compare_package#readme"
+}
