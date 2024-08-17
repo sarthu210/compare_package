@@ -48,5 +48,3 @@ Contributions are welcome! Feel free to submit a pull request or open an issue i
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-
-This `README.md` provides a clear overview of your package, including installation instructions, usage examples, and details about the function signature. It also encourages contributions and provides license information.
